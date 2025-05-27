@@ -1,6 +1,6 @@
 {
     "name": "Module3D",
     "tree": {
-        "$path": "Module3D.luau"
+        "$path": "./src"
     }
 }

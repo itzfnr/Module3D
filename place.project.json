@@ -1,15 +1,17 @@
 {
-	"name": "Repository",
+	"name": "Module3D",
 	"tree": {
 		"$className": "DataModel",
 		"ReplicatedStorage": {
 			"$className": "ReplicatedStorage",
 			"Module3D": {
                 "$path": "."
-            },
-            "Module3D.spec": {
-                "$path": "Module3D.spec.luau"
             }
+		},
+		"TestService": {
+			"Module3D.spec": {
+				"$path": "./test"
+			}
 		}
 	}
 }
